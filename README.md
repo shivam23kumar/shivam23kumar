@@ -14,7 +14,6 @@ I'm Shivam and I'm dabbling technologies that are subject to Web Applications. I
 * Back End Tools: JAVA, Spring Boot
 
 
-While I'm not coding and busy building geeky stuff, I love to spend time with my loved ones ♥️🌿, play chess♟ and cook in my spare time! 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/TheShivam23_)
 
