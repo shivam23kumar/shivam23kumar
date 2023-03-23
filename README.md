@@ -4,14 +4,14 @@
 
 * #### Location 📍: India 🇮🇳
 
-* #### Job 💼: System Engineer @ [Infosys Limited](https://infosys.com/)
+* #### Job 💼: Ex-Systems Engineer @ [Infosys Limited](https://infosys.com/)
 
 * #### Languages Spoken & Written📝: English & Hindi 
 
 I'm Shivam and I'm dabbling technologies that are subject to Web Applications. I spent the past 2 years of my life exploring: 
 
 * Front End Tools: HTML, CSS, JS and React
-* Back End Tools: JAVA, Spring Boot
+* Back End Tools: NodeJS, ExpressJS, MongoDB, Mongoose
 
 
 
